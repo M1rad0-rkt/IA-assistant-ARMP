@@ -16,3 +16,10 @@ Utilisation
     python src/prepare_manuals.py --raw data/raw --out data/prepared
     python src/prepare_manuals.py --raw /chemin/vers/pdf --out sortie --only egp,sigmp
 """
+
+# Données brutes
+data/raw/guide_manuels
+  - BENEFICIAIRE_EFFECTIF_A_L_eGP
+  - e-GP_MANUEL_UTILISATEUR_V_1_B
+  - GUIDE-UTILISATEUR-SUR-LA-PASSATION-DE-MARCHE
+  - SIGMP_Manu_Util_2_0_Provisoire
